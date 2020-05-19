@@ -9,7 +9,7 @@
 O projeto foi desenvolvido para simular o sistema de um elevador de tres andares através de uma maquina de estados em um fpga altera cyclone iv.
 
 **PS:** Para carregar o codigo na placa foi usado o a ide quartus ii
-### Funcinalidades
+### Funcionalidades
 ***
 O projeto, começa no primeiro andar e  possui 3 botões ativos que são o tres primeiros da esquerda para a direita representando o primeiro, segudo e terceiro andar respectivamente 
 
